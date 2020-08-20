@@ -46,12 +46,7 @@ collections:
 footer:
   type: footer
   content: "&copy; Stackbit-Exto. All rights reserved."
-  links:
-    - type: action
-      label: Made with Stackbit.
-      url: https://www.stackbit.com
-      style: link
-      new_window: true
+  links: []
   has_social: true
   social_links:
     - type: action
